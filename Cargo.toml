@@ -1,0 +1,12 @@
+[package]
+name = "progressbars"
+version = "0.1.0"
+edition = "2021"
+homepage = "https://github.com/somatosensory/progressbars-rs"
+license = "BSD-2-Clause"
+readme = "README.md"
+description = "piechart and spinner progressbars implemented in rust"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
